@@ -9,6 +9,8 @@ Extra documentation (knowledge graph, images, etc..) of the paper "Legal Knowled
 * [The Taxonomy within the Knowledge Graph](kg_taxonomy)
 * [The ontological hinge obtained by aligning the Ontology Design Patterns to the Taxonomy](kg_hinge)
 
+## Sources
+
 The Knowledge Graph has been extracted from:
 * [Rome I Regulation EC 593/2008](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32008R0593&from=EN)
 * [Rome II Regulation EC 864/2007](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32007R0864&from=EN)
