@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="r" attr.type="string"/>
+<graph edgedefault="directed"><node id="wn:organization.n.01"/>
+<node id="foaf:Organization"/>
+<node id="wn:information.n.01"/>
+<node id="pro:InformationObject"/>
+<node id="wn:change_of_location.n.01"/>
+<node id="pro:Place"/>
+<node id="wn:region.n.01"/>
+<node id="wn:person.n.01"/>
+<node id="pro:RoleInTime"/>
+<node id="wn:matter.n.06"/>
+<node id="wn:section.n.03"/>
+<node id="wn:legal_document.n.01"/>
+<node id="wn:right.n.01"/>
+<node id="pwo:Action"/>
+<node id="wn:fact.n.01"/>
+<node id="wn:software.n.01"/>
+<node id="wn:derogation.n.02"/>
+<node id="wn:way.n.05"/>
+<node id="wn:recompense.n.02"/>
+<node id="wn:deference.n.01"/>
+<node id="wn:choice.n.02"/>
+<node id="wn:joining.n.01"/>
+<node id="wn:appearance.n.03"/>
+<node id="wn:performance.n.03"/>
+<node id="wn:amendment.n.01"/>
+<node id="wn:transformation.n.05"/>
+<node id="wn:damage.n.03"/>
+<node id="wn:substitution.n.02"/>
+<node id="wn:restitution.n.02"/>
+<node id="wn:transfer.n.03"/>
+<node id="wn:judgment.n.03"/>
+<node id="wn:service.n.13"/>
+<node id="wn:obedience.n.03"/>
+<node id="wn:presentment.n.01"/>
+<node id="wn:copyright.n.01"/>
+<node id="wn:sale.n.01"/>
+<node id="wn:enforcement.n.01"/>
+<node id="wn:litigation.n.01"/>
+<node id="wn:rise.n.02"/>
+<node id="wn:indebtedness.n.01"/>
+<node id="pro:Obligation"/>
+<node id="wn:performance.n.04"/>
+<node id="wn:lockout.n.01"/>
+<node id="wn:appeal.n.03"/>
+<node id="wn:commercial_enterprise.n.02"/>
+<node id="wn:review.n.08"/>
+<node id="wn:remuneration.n.02"/>
+<node id="wn:termination.n.05"/>
+<node id="wn:requital.n.02"/>
+<node id="wn:sale.n.02"/>
+<edge source="wn:organization.n.01" target="foaf:Organization">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:information.n.01" target="pro:InformationObject">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:change_of_location.n.01" target="pro:Place">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:region.n.01" target="pro:Place">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:person.n.01" target="pro:RoleInTime">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:matter.n.06" target="pro:InformationObject">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:section.n.03" target="pro:Place">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:legal_document.n.01" target="pro:InformationObject">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:right.n.01" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:fact.n.01" target="pro:InformationObject">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:software.n.01" target="pro:InformationObject">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:derogation.n.02" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:way.n.05" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:recompense.n.02" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:deference.n.01" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:choice.n.02" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:joining.n.01" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:appearance.n.03" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:performance.n.03" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:amendment.n.01" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:transformation.n.05" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:damage.n.03" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:substitution.n.02" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:restitution.n.02" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:transfer.n.03" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:judgment.n.03" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:service.n.13" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:obedience.n.03" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:presentment.n.01" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:copyright.n.01" target="pro:InformationObject">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:sale.n.01" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:enforcement.n.01" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:litigation.n.01" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:rise.n.02" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:indebtedness.n.01" target="pro:Obligation">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:performance.n.04" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:lockout.n.01" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:appeal.n.03" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:commercial_enterprise.n.02" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:review.n.08" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:remuneration.n.02" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:termination.n.05" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:requital.n.02" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+<edge source="wn:sale.n.02" target="pwo:Action">
+  <data key="d0">rdf:type</data>
+</edge>
+</graph></graphml>

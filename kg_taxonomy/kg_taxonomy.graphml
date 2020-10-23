@@ -1,0 +1,1730 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="r" attr.type="string"/>
+<graph edgedefault="directed"><node id="wn:court.n.08"/>
+<node id="wn:court.n.01"/>
+<node id="wn:exercise.v.03"/>
+<node id="wn:use.v.01"/>
+<node id="wn:work.v.12"/>
+<node id="wn:subrogation.n.01"/>
+<node id="wn:substitution.n.02"/>
+<node id="wn:respect.n.01"/>
+<node id="wn:detail.n.01"/>
+<node id="wn:insurance.n.01"/>
+<node id="wn:security.n.02"/>
+<node id="wn:reinsurance.n.01"/>
+<node id="wn:advantage.n.02"/>
+<node id="wn:point.n.10"/>
+<node id="wn:annex.n.01"/>
+<node id="wn:addition.n.01"/>
+<node id="wn:appointment.n.01"/>
+<node id="wn:choice.n.02"/>
+<node id="wn:recognition.n.08"/>
+<node id="wn:decision.n.01"/>
+<node id="wn:nullity.n.02"/>
+<node id="wn:act.n.01"/>
+<node id="wn:bond.n.02"/>
+<node id="wn:debt_instrument.n.01"/>
+<node id="wn:security.n.04"/>
+<node id="wn:agreement.n.03"/>
+<node id="wn:order.n.03"/>
+<node id="wn:harmony.n.03"/>
+<node id="wn:end.n.01"/>
+<node id="wn:region.n.01"/>
+<node id="wn:finish.n.04"/>
+<node id="wn:extremity.n.04"/>
+<node id="wn:policy.n.03"/>
+<node id="wn:contract.n.01"/>
+<node id="wn:marriage_proposal.n.01"/>
+<node id="wn:offer.n.02"/>
+<node id="wn:effect.n.05"/>
+<node id="wn:validity.n.02"/>
+<node id="wn:place.n.04"/>
+<node id="wn:section.n.03"/>
+<node id="wn:vicinity.n.01"/>
+<node id="wn:installment.n.03"/>
+<node id="wn:matter.n.06"/>
+<node id="wn:text.n.01"/>
+<node id="wn:freight.n.02"/>
+<node id="wn:commercial_enterprise.n.02"/>
+<node id="wn:transportation.n.05"/>
+<node id="wn:bill.n.07"/>
+<node id="wn:list.n.01"/>
+<node id="wn:default_option.n.01"/>
+<node id="wn:option.n.02"/>
+<node id="wn:restriction.n.01"/>
+<node id="wn:rule.n.01"/>
+<node id="wn:prorogation.n.01"/>
+<node id="wn:discontinuance.n.01"/>
+<node id="wn:principle.n.04"/>
+<node id="wn:law.n.04"/>
+<node id="wn:paragraph.v.03"/>
+<node id="wn:write.v.01"/>
+<node id="wn:arbitration.n.02"/>
+<node id="wn:judgment.n.03"/>
+<node id="wn:cargo.n.01"/>
+<node id="wn:commodity.n.01"/>
+<node id="wn:merchandise.n.01"/>
+<node id="wn:buyer.n.01"/>
+<node id="wn:consumer.n.01"/>
+<node id="wn:customer.n.01"/>
+<node id="wn:indemnity.n.01"/>
+<node id="wn:security.n.01"/>
+<node id="wn:protection.n.04"/>
+<node id="wn:arithmetic_operation.n.01"/>
+<node id="wn:procedure.n.01"/>
+<node id="wn:summation.n.04"/>
+<node id="wn:calculation.n.01"/>
+<node id="wn:mathematical_process.n.01"/>
+<node id="wn:cooperation.n.02"/>
+<node id="wn:practice.n.01"/>
+<node id="wn:coherence.n.01"/>
+<node id="wn:connection.n.02"/>
+<node id="wn:continuity.n.01"/>
+<node id="wn:program.n.02"/>
+<node id="wn:system.n.04"/>
+<node id="wn:event.n.02"/>
+<node id="wn:circumstance.n.01"/>
+<node id="wn:study.n.10"/>
+<node id="wn:musical_composition.n.01"/>
+<node id="wn:court_order.n.01"/>
+<node id="wn:writ.n.01"/>
+<node id="wn:execution.n.05"/>
+<node id="wn:copyright.n.01"/>
+<node id="wn:right.n.01"/>
+<node id="wn:legal_right.n.01"/>
+<node id="wn:citizen.n.01"/>
+<node id="wn:national.n.01"/>
+<node id="wn:transportation_system.n.01"/>
+<node id="wn:facility.n.01"/>
+<node id="wn:fact.n.01"/>
+<node id="wn:security_interest.n.01"/>
+<node id="wn:interest.n.05"/>
+<node id="wn:guarantee.n.03"/>
+<node id="wn:pledge.n.01"/>
+<node id="wn:involve.v.01"/>
+<node id="wn:refer.v.02"/>
+<node id="wn:apply.v.02"/>
+<node id="wn:business_activity.n.01"/>
+<node id="wn:undertaking.n.01"/>
+<node id="wn:operation.n.02"/>
+<node id="wn:enterprise.n.01"/>
+<node id="wn:custom.n.04"/>
+<node id="wn:unit_of_measurement.n.01"/>
+<node id="wn:routine.n.03"/>
+<node id="wn:software.n.01"/>
+<node id="wn:application.n.04"/>
+<node id="wn:program.n.07"/>
+<node id="wn:publication.n.01"/>
+<node id="wn:work.n.02"/>
+<node id="wn:reference_book.n.01"/>
+<node id="wn:proof.n.04"/>
+<node id="wn:exclusion.n.01"/>
+<node id="wn:situation.n.01"/>
+<node id="wn:inclusion.n.01"/>
+<node id="wn:affinity.n.02"/>
+<node id="wn:kinship.n.02"/>
+<node id="wn:parentage.n.02"/>
+<node id="wn:diffusion.n.01"/>
+<node id="wn:natural_process.n.01"/>
+<node id="wn:transport.n.02"/>
+<node id="wn:survival.n.02"/>
+<node id="wn:rise.n.04"/>
+<node id="wn:change_of_location.n.01"/>
+<node id="wn:translation.n.02"/>
+<node id="wn:database.n.01"/>
+<node id="wn:change_shape.v.01"/>
+<node id="wn:change.v.02"/>
+<node id="wn:sharpen.v.07"/>
+<node id="wn:damage.v.02"/>
+<node id="wn:material.n.01"/>
+<node id="wn:substance.n.01"/>
+<node id="wn:softwood.n.01"/>
+<node id="wn:water.n.01"/>
+<node id="wn:b.n.07"/>
+<node id="wn:blood.n.01"/>
+<node id="wn:blood_group.n.01"/>
+<node id="wn:body_substance.n.01"/>
+<node id="wn:liquid_body_substance.n.01"/>
+<node id="wn:document.n.03"/>
+<node id="wn:accounting.n.04"/>
+<node id="wn:entry.n.03"/>
+<node id="wn:record.n.07"/>
+<node id="wn:register.n.03"/>
+<node id="wn:defendant.n.01"/>
+<node id="wn:party.n.05"/>
+<node id="wn:litigant.n.01"/>
+<node id="wn:assignee.n.01"/>
+<node id="wn:assignor.n.01"/>
+<node id="wn:trade.n.02"/>
+<node id="wn:occupation.n.01"/>
+<node id="wn:profession.n.02"/>
+<node id="wn:employment.n.02"/>
+<node id="wn:termination.n.05"/>
+<node id="wn:exemption.n.03"/>
+<node id="wn:release.n.11"/>
+<node id="wn:relinquishment.n.02"/>
+<node id="wn:death.n.08"/>
+<node id="wn:killing.n.02"/>
+<node id="wn:payment.n.01"/>
+<node id="wn:cost.n.01"/>
+<node id="wn:compensation.n.01"/>
+<node id="wn:down_payment.n.01"/>
+<node id="wn:benefit.n.01"/>
+<node id="wn:expense.n.01"/>
+<node id="wn:information.n.01"/>
+<node id="wn:course_of_study.n.01"/>
+<node id="wn:evidence.n.03"/>
+<node id="wn:administrative_unit.n.01"/>
+<node id="wn:organization.n.01"/>
+<node id="wn:agency.n.01"/>
+<node id="wn:unit.n.03"/>
+<node id="wn:department_of_commerce.n.01"/>
+<node id="wn:department_of_justice.n.01"/>
+<node id="wn:enterprise.n.02"/>
+<node id="wn:market.n.04"/>
+<node id="wn:business.n.01"/>
+<node id="wn:association.n.01"/>
+<node id="wn:institution.n.01"/>
+<node id="wn:order.n.11"/>
+<node id="wn:religion.n.02"/>
+<node id="wn:sect.n.01"/>
+<node id="wn:alliance.n.03"/>
+<node id="wn:european_union.n.01"/>
+<node id="wn:world_organization.n.01"/>
+<node id="wn:legal_document.n.01"/>
+<node id="wn:agreement.n.01"/>
+<node id="wn:written_agreement.n.01"/>
+<node id="wn:opinion.n.04"/>
+<node id="wn:check.n.01"/>
+<node id="wn:draft.n.01"/>
+<node id="wn:negotiable_instrument.n.01"/>
+<node id="wn:assignment.n.02"/>
+<node id="wn:person.n.01"/>
+<node id="wn:worker.n.01"/>
+<node id="wn:employee.n.01"/>
+<node id="wn:official.n.01"/>
+<node id="wn:military_officer.n.01"/>
+<node id="wn:businessperson.n.01"/>
+<node id="wn:auditor.n.03"/>
+<node id="wn:capitalist.n.02"/>
+<node id="wn:baron.n.03"/>
+<node id="wn:adult.n.01"/>
+<node id="wn:personality.n.02"/>
+<node id="wn:house_physician.n.01"/>
+<node id="wn:acquirer.n.01"/>
+<node id="wn:recipient.n.01"/>
+<node id="wn:beneficiary.n.01"/>
+<node id="wn:user.n.01"/>
+<node id="wn:passenger.n.01"/>
+<node id="wn:traveler.n.01"/>
+<node id="wn:benefactor.n.01"/>
+<node id="wn:settlor.n.01"/>
+<node id="wn:donor.n.01"/>
+<node id="wn:good_person.n.01"/>
+<node id="wn:fiduciary.n.01"/>
+<node id="wn:trustee.n.01"/>
+<node id="wn:associate.n.01"/>
+<node id="wn:regent.n.01"/>
+<node id="wn:committee_member.n.01"/>
+<node id="wn:member.n.01"/>
+<node id="wn:peer.n.01"/>
+<node id="wn:contestant.n.01"/>
+<node id="wn:rival.n.01"/>
+<node id="wn:victim.n.02"/>
+<node id="wn:arbiter.n.02"/>
+<node id="wn:authority.n.03"/>
+<node id="wn:evaluator.n.01"/>
+<node id="wn:expert.n.01"/>
+<node id="wn:employer.n.01"/>
+<node id="wn:leader.n.01"/>
+<node id="wn:acquaintance.n.03"/>
+<node id="wn:connection.n.04"/>
+<node id="wn:actor.n.02"/>
+<node id="wn:work.n.01"/>
+<node id="wn:activity.n.01"/>
+<node id="wn:aftercare.n.01"/>
+<node id="wn:examination.n.01"/>
+<node id="wn:operation.n.07"/>
+<node id="wn:wrongdoing.n.02"/>
+<node id="wn:tort.n.01"/>
+<node id="wn:wrong.n.02"/>
+<node id="wn:appearance.n.06"/>
+<node id="wn:violation.n.02"/>
+<node id="wn:misdemeanor.n.01"/>
+<node id="wn:protection.n.07"/>
+<node id="wn:control.n.05"/>
+<node id="wn:restriction.n.03"/>
+<node id="wn:restraint.n.01"/>
+<node id="wn:suppression.n.02"/>
+<node id="wn:operation.n.11"/>
+<node id="wn:behavior.n.01"/>
+<node id="wn:auction.n.01"/>
+<node id="wn:bridge.n.05"/>
+<node id="wn:card_game.n.01"/>
+<node id="wn:game.n.01"/>
+<node id="wn:exercise.n.03"/>
+<node id="wn:training.n.01"/>
+<node id="wn:creating_by_mental_acts.n.01"/>
+<node id="wn:design.n.01"/>
+<node id="wn:creation.n.01"/>
+<node id="wn:gaze.n.01"/>
+<node id="wn:look.n.02"/>
+<node id="wn:sensing.n.02"/>
+<node id="wn:sensory_activity.n.01"/>
+<node id="wn:stare.n.01"/>
+<node id="wn:misuse.n.01"/>
+<node id="wn:use.n.01"/>
+<node id="wn:avocation.n.01"/>
+<node id="wn:diversion.n.01"/>
+<node id="wn:pastime.n.01"/>
+<node id="wn:condition.n.01"/>
+<node id="wn:state.n.02"/>
+<node id="wn:liability.n.01"/>
+<node id="wn:situation.n.03"/>
+<node id="wn:problem.n.01"/>
+<node id="wn:matter.n.01"/>
+<node id="wn:rationality.n.01"/>
+<node id="wn:case.n.12"/>
+<node id="wn:condition.n.05"/>
+<node id="wn:paradoxical_sleep.n.01"/>
+<node id="wn:disability.n.01"/>
+<node id="wn:illness.n.01"/>
+<node id="wn:status.n.01"/>
+<node id="wn:marriage.n.01"/>
+<node id="wn:subordinateness.n.01"/>
+<node id="wn:precedence.n.01"/>
+<node id="wn:relationship.n.03"/>
+<node id="wn:confidence.n.04"/>
+<node id="wn:account.n.03"/>
+<node id="wn:union.n.04"/>
+<node id="wn:isolation.n.01"/>
+<node id="wn:privacy.n.02"/>
+<node id="wn:separation.n.01"/>
+<node id="wn:degree.n.02"/>
+<node id="wn:ownership.n.03"/>
+<node id="wn:employment.n.01"/>
+<node id="wn:conflict.n.04"/>
+<node id="wn:approval.n.02"/>
+<node id="wn:favor.n.04"/>
+<node id="wn:feeling.n.01"/>
+<node id="wn:liking.n.01"/>
+<node id="wn:indebtedness.n.01"/>
+<node id="wn:obligation.n.02"/>
+<node id="wn:action.n.02"/>
+<node id="wn:operation.n.01"/>
+<node id="wn:freedom.n.01"/>
+<node id="wn:act.n.02"/>
+<node id="wn:action.n.01"/>
+<node id="wn:way.n.05"/>
+<node id="wn:performance.n.04"/>
+<node id="wn:lockout.n.01"/>
+<node id="wn:deference.n.01"/>
+<node id="wn:performance.n.03"/>
+<node id="wn:rise.n.02"/>
+<node id="wn:service.n.13"/>
+<node id="wn:joining.n.01"/>
+<node id="wn:damage.n.03"/>
+<node id="wn:transformation.n.05"/>
+<node id="wn:transfer.n.03"/>
+<node id="wn:derogation.n.02"/>
+<node id="wn:restitution.n.02"/>
+<node id="wn:recompense.n.02"/>
+<node id="wn:amendment.n.01"/>
+<node id="wn:group_action.n.01"/>
+<node id="wn:requital.n.02"/>
+<node id="wn:appearance.n.03"/>
+<node id="wn:enforcement.n.01"/>
+<node id="wn:obedience.n.03"/>
+<node id="wn:remuneration.n.02"/>
+<node id="wn:sale.n.01"/>
+<node id="wn:sale.n.02"/>
+<node id="wn:presentment.n.01"/>
+<node id="wn:litigation.n.01"/>
+<node id="wn:appeal.n.03"/>
+<node id="wn:review.n.08"/>
+<node id="wn:speech_act.n.01"/>
+<node id="wn:dispute.n.01"/>
+<node id="wn:exception.n.03"/>
+<node id="wn:disclosure.n.01"/>
+<node id="wn:request.n.02"/>
+<node id="wn:nonaccomplishment.n.01"/>
+<node id="wn:distortion.n.06"/>
+<node id="wn:negligence.n.01"/>
+<node id="wn:force_out.n.01"/>
+<node id="wn:recovery.n.03"/>
+<node id="wn:redemption.n.01"/>
+<node id="wn:rescue.n.01"/>
+<node id="wn:salvage.n.03"/>
+<node id="wn:acquiring.n.01"/>
+<node id="wn:succession.n.05"/>
+<node id="wn:acquisition.n.01"/>
+<node id="wn:break.n.13"/>
+<node id="wn:delay.n.02"/>
+<node id="wn:inactivity.n.03"/>
+<node id="wn:determination.n.01"/>
+<node id="wn:validation.n.01"/>
+<node id="wn:discovery.n.01"/>
+<node id="wn:accordance.n.02"/>
+<node id="wn:distribution.n.03"/>
+<node id="wn:giving.n.01"/>
+<node id="wn:sharing.n.04"/>
+<node id="wn:communication.n.01"/>
+<node id="wn:consideration.n.03"/>
+<node id="wn:discussion.n.01"/>
+<node id="wn:causing.n.01"/>
+<node id="wn:transmission.n.01"/>
+<node id="wn:sending.n.01"/>
+<node id="wn:occupancy.n.01"/>
+<node id="wn:residency.n.01"/>
+<node id="wn:implementation.n.02"/>
+<edge source="wn:court.n.08" target="wn:court.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:exercise.v.03" target="wn:use.v.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:exercise.v.03" target="wn:work.v.12">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:work.v.12" target="wn:use.v.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:subrogation.n.01" target="wn:substitution.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:substitution.n.02" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:respect.n.01" target="wn:detail.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:detail.n.01" target="wn:fact.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:insurance.n.01" target="wn:security.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:reinsurance.n.01" target="wn:insurance.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:reinsurance.n.01" target="wn:security.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:advantage.n.02" target="wn:point.n.10">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:point.n.10" target="wn:unit_of_measurement.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:annex.n.01" target="wn:addition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:appointment.n.01" target="wn:choice.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:choice.n.02" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:recognition.n.08" target="wn:appointment.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:recognition.n.08" target="wn:decision.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:recognition.n.08" target="wn:choice.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:decision.n.01" target="wn:choice.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:nullity.n.02" target="wn:act.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:act.n.01" target="wn:legal_document.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:bond.n.02" target="wn:debt_instrument.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:bond.n.02" target="wn:security.n.04">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:bond.n.02" target="wn:legal_document.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:debt_instrument.n.01" target="wn:document.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:security.n.04" target="wn:debt_instrument.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:security.n.04" target="wn:legal_document.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:agreement.n.03" target="wn:order.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:agreement.n.03" target="wn:harmony.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:order.n.03" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:harmony.n.03" target="wn:order.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:end.n.01" target="wn:region.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:finish.n.04" target="wn:end.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:finish.n.04" target="wn:extremity.n.04">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:finish.n.04" target="wn:region.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:extremity.n.04" target="wn:region.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:policy.n.03" target="wn:contract.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:contract.n.01" target="wn:agreement.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:contract.n.01" target="wn:legal_document.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:contract.n.01" target="wn:written_agreement.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:marriage_proposal.n.01" target="wn:offer.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:effect.n.05" target="wn:validity.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:place.n.04" target="wn:section.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:place.n.04" target="wn:vicinity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:vicinity.n.01" target="wn:section.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:installment.n.03" target="wn:matter.n.06">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:installment.n.03" target="wn:text.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:text.n.01" target="wn:matter.n.06">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:freight.n.02" target="wn:commercial_enterprise.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:freight.n.02" target="wn:transportation.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:commercial_enterprise.n.02" target="wn:group_action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:transportation.n.05" target="wn:commercial_enterprise.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:bill.n.07" target="wn:list.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:list.n.01" target="wn:database.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:default_option.n.01" target="wn:option.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:restriction.n.01" target="wn:rule.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:prorogation.n.01" target="wn:discontinuance.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:discontinuance.n.01" target="wn:termination.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:principle.n.04" target="wn:law.n.04">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:paragraph.v.03" target="wn:write.v.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:arbitration.n.02" target="wn:judgment.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:judgment.n.03" target="wn:group_action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:cargo.n.01" target="wn:commodity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:cargo.n.01" target="wn:merchandise.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:merchandise.n.01" target="wn:commodity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:buyer.n.01" target="wn:consumer.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:buyer.n.01" target="wn:customer.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:consumer.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:consumer.n.01" target="wn:user.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:customer.n.01" target="wn:consumer.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:indemnity.n.01" target="wn:security.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:indemnity.n.01" target="wn:protection.n.04">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:security.n.01" target="wn:condition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:protection.n.04" target="wn:security.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:arithmetic_operation.n.01" target="wn:procedure.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:procedure.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:summation.n.04" target="wn:arithmetic_operation.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:summation.n.04" target="wn:calculation.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:summation.n.04" target="wn:mathematical_process.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:summation.n.04" target="wn:procedure.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:calculation.n.01" target="wn:procedure.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:mathematical_process.n.01" target="wn:procedure.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:cooperation.n.02" target="wn:practice.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:practice.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:coherence.n.01" target="wn:connection.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:connection.n.02" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:connection.n.02" target="wn:union.n.04">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:continuity.n.01" target="wn:coherence.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:continuity.n.01" target="wn:connection.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:program.n.02" target="wn:system.n.04">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:event.n.02" target="wn:circumstance.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:circumstance.n.01" target="wn:condition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:study.n.10" target="wn:musical_composition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:court_order.n.01" target="wn:writ.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:writ.n.01" target="wn:legal_document.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:execution.n.05" target="wn:court_order.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:execution.n.05" target="wn:writ.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:copyright.n.01" target="wn:right.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:copyright.n.01" target="wn:legal_right.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:legal_right.n.01" target="wn:right.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:citizen.n.01" target="wn:national.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:national.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:transportation_system.n.01" target="wn:facility.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:security_interest.n.01" target="wn:interest.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:guarantee.n.03" target="wn:security_interest.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:pledge.n.01" target="wn:security_interest.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:involve.v.01" target="wn:refer.v.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:apply.v.02" target="wn:refer.v.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:business_activity.n.01" target="wn:undertaking.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:undertaking.n.01" target="wn:work.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:operation.n.02" target="wn:business_activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:operation.n.02" target="wn:enterprise.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:enterprise.n.01" target="wn:undertaking.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:custom.n.04" target="wn:business_activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:custom.n.04" target="wn:enterprise.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:routine.n.03" target="wn:software.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:application.n.04" target="wn:software.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:application.n.04" target="wn:program.n.07">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:program.n.07" target="wn:software.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:publication.n.01" target="wn:work.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:reference_book.n.01" target="wn:publication.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:proof.n.04" target="wn:publication.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:exclusion.n.01" target="wn:situation.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:situation.n.01" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:inclusion.n.01" target="wn:situation.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:affinity.n.02" target="wn:kinship.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:parentage.n.02" target="wn:kinship.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:diffusion.n.01" target="wn:natural_process.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:transport.n.02" target="wn:diffusion.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:transport.n.02" target="wn:natural_process.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:survival.n.02" target="wn:natural_process.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:rise.n.04" target="wn:change_of_location.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:translation.n.02" target="wn:change_of_location.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:database.n.01" target="wn:information.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:change_shape.v.01" target="wn:change.v.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:sharpen.v.07" target="wn:change_shape.v.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:sharpen.v.07" target="wn:change.v.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:damage.v.02" target="wn:change.v.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:material.n.01" target="wn:substance.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:softwood.n.01" target="wn:material.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:water.n.01" target="wn:material.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:b.n.07" target="wn:substance.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:b.n.07" target="wn:blood.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:b.n.07" target="wn:blood_group.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:b.n.07" target="wn:body_substance.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:b.n.07" target="wn:liquid_body_substance.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:blood.n.01" target="wn:substance.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:blood_group.n.01" target="wn:substance.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:body_substance.n.01" target="wn:substance.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:liquid_body_substance.n.01" target="wn:substance.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:accounting.n.04" target="wn:document.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:entry.n.03" target="wn:accounting.n.04">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:entry.n.03" target="wn:document.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:entry.n.03" target="wn:record.n.07">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:entry.n.03" target="wn:register.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:record.n.07" target="wn:document.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:register.n.03" target="wn:document.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:defendant.n.01" target="wn:party.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:defendant.n.01" target="wn:litigant.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:party.n.05" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:litigant.n.01" target="wn:party.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:assignee.n.01" target="wn:party.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:assignee.n.01" target="wn:acquirer.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:assignee.n.01" target="wn:recipient.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:assignor.n.01" target="wn:party.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:trade.n.02" target="wn:occupation.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:occupation.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:profession.n.02" target="wn:occupation.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:employment.n.02" target="wn:occupation.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:termination.n.05" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:exemption.n.03" target="wn:termination.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:exemption.n.03" target="wn:release.n.11">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:exemption.n.03" target="wn:relinquishment.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:release.n.11" target="wn:termination.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:relinquishment.n.02" target="wn:termination.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:death.n.08" target="wn:termination.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:death.n.08" target="wn:killing.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:killing.n.02" target="wn:termination.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:payment.n.01" target="wn:cost.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:compensation.n.01" target="wn:payment.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:down_payment.n.01" target="wn:payment.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:benefit.n.01" target="wn:payment.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:expense.n.01" target="wn:cost.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:course_of_study.n.01" target="wn:information.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:evidence.n.03" target="wn:information.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:administrative_unit.n.01" target="wn:organization.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:agency.n.01" target="wn:administrative_unit.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:agency.n.01" target="wn:unit.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:unit.n.03" target="wn:organization.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:department_of_commerce.n.01" target="wn:administrative_unit.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:department_of_commerce.n.01" target="wn:unit.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:department_of_justice.n.01" target="wn:administrative_unit.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:department_of_justice.n.01" target="wn:unit.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:enterprise.n.02" target="wn:organization.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:market.n.04" target="wn:enterprise.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:business.n.01" target="wn:enterprise.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:association.n.01" target="wn:organization.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:institution.n.01" target="wn:organization.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:order.n.11" target="wn:institution.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:order.n.11" target="wn:organization.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:order.n.11" target="wn:religion.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:order.n.11" target="wn:sect.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:religion.n.02" target="wn:organization.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:sect.n.01" target="wn:organization.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:alliance.n.03" target="wn:organization.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:european_union.n.01" target="wn:alliance.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:european_union.n.01" target="wn:organization.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:european_union.n.01" target="wn:world_organization.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:world_organization.n.01" target="wn:organization.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:agreement.n.01" target="wn:legal_document.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:written_agreement.n.01" target="wn:legal_document.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:opinion.n.04" target="wn:legal_document.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:check.n.01" target="wn:legal_document.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:check.n.01" target="wn:draft.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:check.n.01" target="wn:negotiable_instrument.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:draft.n.01" target="wn:legal_document.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:negotiable_instrument.n.01" target="wn:legal_document.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:assignment.n.02" target="wn:legal_document.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:worker.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:employee.n.01" target="wn:worker.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:official.n.01" target="wn:worker.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:military_officer.n.01" target="wn:worker.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:businessperson.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:auditor.n.03" target="wn:businessperson.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:auditor.n.03" target="wn:capitalist.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:capitalist.n.02" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:baron.n.03" target="wn:businessperson.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:baron.n.03" target="wn:capitalist.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:adult.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:personality.n.02" target="wn:adult.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:house_physician.n.01" target="wn:adult.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:acquirer.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:recipient.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:beneficiary.n.01" target="wn:acquirer.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:beneficiary.n.01" target="wn:recipient.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:user.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:passenger.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:passenger.n.01" target="wn:traveler.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:traveler.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:benefactor.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:settlor.n.01" target="wn:benefactor.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:settlor.n.01" target="wn:donor.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:settlor.n.01" target="wn:good_person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:settlor.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:donor.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:good_person.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:fiduciary.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:trustee.n.01" target="wn:fiduciary.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:trustee.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:associate.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:regent.n.01" target="wn:associate.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:regent.n.01" target="wn:committee_member.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:regent.n.01" target="wn:member.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:regent.n.01" target="wn:peer.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:regent.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:committee_member.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:member.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:peer.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:contestant.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:rival.n.01" target="wn:contestant.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:rival.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:victim.n.02" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:arbiter.n.02" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:arbiter.n.02" target="wn:authority.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:arbiter.n.02" target="wn:evaluator.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:arbiter.n.02" target="wn:expert.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:authority.n.03" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:evaluator.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:expert.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:employer.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:employer.n.01" target="wn:leader.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:leader.n.01" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:acquaintance.n.03" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:connection.n.04" target="wn:acquaintance.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:connection.n.04" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:actor.n.02" target="wn:person.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:work.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:activity.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:aftercare.n.01" target="wn:work.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:examination.n.01" target="wn:work.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:operation.n.07" target="wn:work.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:wrongdoing.n.02" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:tort.n.01" target="wn:wrongdoing.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:wrong.n.02" target="wn:wrongdoing.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:appearance.n.06" target="wn:wrongdoing.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:violation.n.02" target="wn:wrongdoing.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:misdemeanor.n.01" target="wn:wrongdoing.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:protection.n.07" target="wn:wrongdoing.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:control.n.05" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:restriction.n.03" target="wn:control.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:restriction.n.03" target="wn:restraint.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:restraint.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:suppression.n.02" target="wn:control.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:suppression.n.02" target="wn:restraint.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:operation.n.11" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:behavior.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:auction.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:auction.n.01" target="wn:bridge.n.05">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:auction.n.01" target="wn:card_game.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:auction.n.01" target="wn:game.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:bridge.n.05" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:card_game.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:game.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:exercise.n.03" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:exercise.n.03" target="wn:training.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:training.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:creating_by_mental_acts.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:design.n.01" target="wn:creating_by_mental_acts.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:design.n.01" target="wn:creation.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:design.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:creation.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:gaze.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:gaze.n.01" target="wn:look.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:gaze.n.01" target="wn:sensing.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:gaze.n.01" target="wn:sensory_activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:gaze.n.01" target="wn:stare.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:look.n.02" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:sensing.n.02" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:sensory_activity.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:stare.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:misuse.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:misuse.n.01" target="wn:use.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:use.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:avocation.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:avocation.n.01" target="wn:diversion.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:avocation.n.01" target="wn:pastime.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:diversion.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:pastime.n.01" target="wn:activity.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:condition.n.01" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:liability.n.01" target="wn:condition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:situation.n.03" target="wn:condition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:problem.n.01" target="wn:condition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:matter.n.01" target="wn:condition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:rationality.n.01" target="wn:condition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:case.n.12" target="wn:condition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:condition.n.05" target="wn:condition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:paradoxical_sleep.n.01" target="wn:condition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:disability.n.01" target="wn:condition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:illness.n.01" target="wn:condition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:status.n.01" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:marriage.n.01" target="wn:status.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:subordinateness.n.01" target="wn:status.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:precedence.n.01" target="wn:status.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:relationship.n.03" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:confidence.n.04" target="wn:relationship.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:account.n.03" target="wn:relationship.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:union.n.04" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:isolation.n.01" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:privacy.n.02" target="wn:isolation.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:privacy.n.02" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:privacy.n.02" target="wn:separation.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:separation.n.01" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:degree.n.02" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:ownership.n.03" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:employment.n.01" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:conflict.n.04" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:approval.n.02" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:favor.n.04" target="wn:approval.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:favor.n.04" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:favor.n.04" target="wn:feeling.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:favor.n.04" target="wn:liking.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:feeling.n.01" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:liking.n.01" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:indebtedness.n.01" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:indebtedness.n.01" target="wn:obligation.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:obligation.n.02" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:action.n.02" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:operation.n.01" target="wn:action.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:operation.n.01" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:freedom.n.01" target="wn:state.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:action.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:way.n.05" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:performance.n.04" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:lockout.n.01" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:deference.n.01" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:performance.n.03" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:rise.n.02" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:service.n.13" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:joining.n.01" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:damage.n.03" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:transformation.n.05" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:transfer.n.03" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:derogation.n.02" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:restitution.n.02" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:recompense.n.02" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:amendment.n.01" target="wn:action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:group_action.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:requital.n.02" target="wn:group_action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:appearance.n.03" target="wn:group_action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:enforcement.n.01" target="wn:group_action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:obedience.n.03" target="wn:group_action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:remuneration.n.02" target="wn:group_action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:sale.n.01" target="wn:group_action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:sale.n.02" target="wn:group_action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:presentment.n.01" target="wn:group_action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:litigation.n.01" target="wn:group_action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:appeal.n.03" target="wn:group_action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:review.n.08" target="wn:group_action.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:speech_act.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:dispute.n.01" target="wn:speech_act.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:exception.n.03" target="wn:speech_act.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:disclosure.n.01" target="wn:speech_act.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:request.n.02" target="wn:speech_act.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:nonaccomplishment.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:distortion.n.06" target="wn:nonaccomplishment.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:negligence.n.01" target="wn:nonaccomplishment.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:force_out.n.01" target="wn:nonaccomplishment.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:recovery.n.03" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:redemption.n.01" target="wn:recovery.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:redemption.n.01" target="wn:rescue.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:rescue.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:salvage.n.03" target="wn:recovery.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:salvage.n.03" target="wn:rescue.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:acquiring.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:succession.n.05" target="wn:acquiring.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:succession.n.05" target="wn:acquisition.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:succession.n.05" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:acquisition.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:break.n.13" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:break.n.13" target="wn:delay.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:break.n.13" target="wn:inactivity.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:delay.n.02" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:inactivity.n.03" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:determination.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:validation.n.01" target="wn:determination.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:validation.n.01" target="wn:discovery.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:validation.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:discovery.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:accordance.n.02" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:accordance.n.02" target="wn:distribution.n.03">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:accordance.n.02" target="wn:giving.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:accordance.n.02" target="wn:sharing.n.04">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:distribution.n.03" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:giving.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:sharing.n.04" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:communication.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:consideration.n.03" target="wn:communication.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:consideration.n.03" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:consideration.n.03" target="wn:discussion.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:discussion.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:causing.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:transmission.n.01" target="wn:causing.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:transmission.n.01" target="wn:sending.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:transmission.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:sending.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:occupancy.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:occupancy.n.01" target="wn:residency.n.01">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:residency.n.01" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+<edge source="wn:implementation.n.02" target="wn:act.n.02">
+  <data key="d0">rdfs:subClassOf</data>
+</edge>
+</graph></graphml>

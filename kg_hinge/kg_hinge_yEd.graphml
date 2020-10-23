@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.14.2-->
+  <key attr.name="Description" attr.type="string" for="graph" id="d0"/>
+  <key for="port" id="d1" yfiles.type="portgraphics"/>
+  <key for="port" id="d2" yfiles.type="portgeometry"/>
+  <key for="port" id="d3" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d4"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d7" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+	<data key="d0"/><node id="pro:RoleInTime">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">pro:RoleInTime</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:lockout.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:lockout.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:transfer.n.03">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:transfer.n.03</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:judgment.n.03">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:judgment.n.03</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="pwo:Action">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">pwo:Action</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="foaf:Organization">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">foaf:Organization</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:derogation.n.02">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:derogation.n.02</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:information.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:information.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:right.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:right.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:copyright.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:copyright.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:fact.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:fact.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:sale.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:sale.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:way.n.05">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:way.n.05</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:appeal.n.03">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:appeal.n.03</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:termination.n.05">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:termination.n.05</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="pro:InformationObject">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">pro:InformationObject</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:commercial_enterprise.n.02">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:commercial_enterprise.n.02</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:choice.n.02">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:choice.n.02</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:enforcement.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:enforcement.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:joining.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:joining.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:litigation.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:litigation.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:software.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:software.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:region.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:region.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:appearance.n.03">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:appearance.n.03</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:performance.n.03">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:performance.n.03</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:indebtedness.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:indebtedness.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:recompense.n.02">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:recompense.n.02</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="pro:Place">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">pro:Place</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:review.n.08">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:review.n.08</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:requital.n.02">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:requital.n.02</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:service.n.13">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:service.n.13</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:obedience.n.03">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:obedience.n.03</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:presentment.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:presentment.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:change_of_location.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:change_of_location.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:transformation.n.05">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:transformation.n.05</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:person.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:person.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:amendment.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:amendment.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:organization.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:organization.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:remuneration.n.02">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:remuneration.n.02</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:performance.n.04">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:performance.n.04</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:sale.n.02">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:sale.n.02</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="pro:Obligation">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">pro:Obligation</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:substitution.n.02">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:substitution.n.02</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:restitution.n.02">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:restitution.n.02</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:section.n.03">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:section.n.03</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:rise.n.02">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:rise.n.02</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:deference.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:deference.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:matter.n.06">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:matter.n.06</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:legal_document.n.01">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:legal_document.n.01</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<node id="wn:damage.n.03">
+		<data key="d6">
+			<y:ShapeNode>
+				<y:Geometry height="44.0" width="162.96822102864604" x="-5597.332280393664" y="-1819.21394393037"/>
+				<y:Fill color="#FFFF00" transparent="false"/>
+				<y:BorderStyle color="#000000" type="line" width="1.0"/>
+				<y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="23.6015625" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="131.171875" x="15.89817301432322" y="10.19921875">wn:damage.n.03</y:NodeLabel>
+				<y:Shape type="roundrectangle"/>
+			</y:ShapeNode>
+		</data>
+	</node>
+<edge source="wn:organization.n.01" target="foaf:Organization">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:information.n.01" target="pro:InformationObject">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:change_of_location.n.01" target="pro:Place">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:region.n.01" target="pro:Place">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:person.n.01" target="pro:RoleInTime">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:matter.n.06" target="pro:InformationObject">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:section.n.03" target="pro:Place">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:legal_document.n.01" target="pro:InformationObject">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:right.n.01" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:fact.n.01" target="pro:InformationObject">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:software.n.01" target="pro:InformationObject">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:derogation.n.02" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:way.n.05" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:recompense.n.02" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:deference.n.01" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:choice.n.02" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:joining.n.01" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:appearance.n.03" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:performance.n.03" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:amendment.n.01" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:transformation.n.05" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:damage.n.03" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:substitution.n.02" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:restitution.n.02" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:transfer.n.03" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:judgment.n.03" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:service.n.13" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:obedience.n.03" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:presentment.n.01" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:copyright.n.01" target="pro:InformationObject">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:sale.n.01" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:enforcement.n.01" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:litigation.n.01" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:rise.n.02" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:indebtedness.n.01" target="pro:Obligation">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:performance.n.04" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:lockout.n.01" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:appeal.n.03" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:commercial_enterprise.n.02" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:review.n.08" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:remuneration.n.02" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:termination.n.05" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:requital.n.02" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+<edge source="wn:sale.n.02" target="pwo:Action">
+	  <data key="d10">
+		<y:PolyLineEdge>
+		  <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+			<y:Point x="-3676.1339400566617" y="-1345.8181620062282"/>
+		  </y:Path>
+		  <y:LineStyle color="#000000" type="line" width="1.0"/>
+		  <y:Arrows source="none" target="standard"/>
+		  <y:EdgeLabel alignment="center" backgroundColor="#FFFFFF" distance="2.0" fontFamily="Dialog" fontSize="16" fontStyle="plain" hasLineColor="false" height="23.6015625" modelName="centered" modelPosition="center" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="100.0390625" x="-101.48474858880354" y="18.27839561095925">rdf:type<y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+		  </y:EdgeLabel>
+		  <y:BendStyle smoothed="false"/>
+		</y:PolyLineEdge>
+	  </data>
+	</edge>
+</graph>
+  <data key="d7">
+	<y:Resources/>
+  </data>
+</graphml>
