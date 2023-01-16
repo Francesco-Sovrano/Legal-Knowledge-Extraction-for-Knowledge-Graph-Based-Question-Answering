@@ -5,7 +5,7 @@ Extra documentation (knowledge graph, images, etc..) of the paper "Legal Knowled
 
 ## Usage and Installation
 This project has been tested on Debian 9 and macOS Mojave 10.14 with Python 3.7.9. 
-The [web_app](web_app) folder contains the code of the answer retriever. The [web_app/setup.sh](web_app/setup.sh) script to installs the software. To run the web app, execute the following command ```./web_app/server.sh port_num``` where port_num is the number of the port. After running the "server.sh" script, you can access the web app through your browser at http://localhost:port_num (remember to replace the string port_num with the correct port number you have chosen).
+The [web_app](web_app) folder contains the code of the answer retriever. The [web_app/setup.sh](web_app/setup.sh) script installs the software. To run the web app, execute the following command ```./web_app/server.sh port_num``` where port_num is the number of the port. After running the "server.sh" script, you can access the web app through your browser at http://localhost:port_num (remember to replace the string port_num with the correct port number you have chosen).
 
 **N.B.** Before being able to run the setup.sh scripts you have to install: virtualenv, python3-dev, python3-pip and make. 
 
