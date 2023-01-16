@@ -1,0 +1,9 @@
+body {
+	font-size: 18px;
+}
+
+.detail_btn {
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}

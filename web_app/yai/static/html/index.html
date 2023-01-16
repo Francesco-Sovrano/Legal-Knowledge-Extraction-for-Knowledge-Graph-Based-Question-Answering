@@ -1,0 +1,85 @@
+<html>
+	<head>
+		<!-- Add Bootstrap and Bootstrap-Vue CSS to the <head> section -->
+		<link type="text/css" rel="stylesheet" href="/resources/static/lib/bootstrap-4.5.2.min.css"/>
+		<link type="text/css" rel="stylesheet" href="/resources/static/lib/bootstrap-vue-2.16.0.min.css"/>
+		<!--FontAwesome import-->
+		<link type="text/css" rel="stylesheet" href="/resources/static/lib/font-awesome-4.7.0.min.css">
+
+		<!-- App -->
+		<link type="text/css" rel="stylesheet" href="/resources/static/style.css">
+		<link type="text/css" rel="stylesheet" href="/resources/static/tree.css">
+	</head>
+	<body>
+		<div id="app" class="container">
+			<h1><u>QA</u><small>4</small><u>Law</u></h1>
+			<div>
+				<p>
+					Here you can ask any English question concerning the content of the following documents:
+				</p>
+				<ul>
+					<li v-for="(doc,id) in documents">
+						<a v-bind:href="doc.url" target="_blank">{{doc.name}}</a>
+					</li>
+				</ul>
+			</div>
+			<hr>
+			<input 
+				placeholder="Write a question.. e.g. Which law is applicable to a non-contractual obligation?" 
+				type="text" 
+				class="form-control input-lg" 
+				aria-label="Write a question.. e.g. Which law is applicable to a non-contractual obligation?" 
+				aria-describedby="inputGroup-sizing-sm" 
+				v-on:keydown.enter="question"
+			>
+			<hr>
+			<p v-if="loading_answers">Loading answers, please wait a while..</p>
+			<div v-if="!loading_answers && !empty_answers">
+				<p>
+					<strong>Question</strong>: {{ question_text }}
+				</p>
+				<!-- <h3><u>Details</u></h3> -->
+				<table class="table table-bordered">
+					<tr>
+						<th>Pertinence</th>
+						<th>Source</th>
+						<!-- <th>Abstract</th> -->
+						<th>Document</th>
+					</tr>
+					<tr v-for="(answer,i) in important_answer_list" v-bind:key="i">
+						<td>{{ answer.confidence }}</td>
+						<td>«{{ answer.sentence }}»</td>
+						<!-- <td><b>{{ answer.abstract }}</b></td> -->
+						<td><a v-bind:href="answer.document.url" target="_blank">{{answer.document.name}}</a></td>
+					</tr>
+				</table>
+			</div>
+			<div v-if="!loading_answers && empty_answers">
+				<p>
+					No answer found.
+				</p>
+			</div>
+		</div>
+		<footer>
+			<!-- JQUERY -->
+			<script type="text/javascript" src="/resources/static/lib/jquery-3.5.1.min.js"></script>
+			<!-- Add Vue and Bootstrap-Vue JS just before the closing </body> tag -->
+			<script type="text/javascript" src="/resources/static/lib/vue-2.6.11.min.js"></script>
+			<script type="text/javascript" src="/resources/static/lib/bootstrap-vue-2.16.0.min.js"></script>
+			
+			<!-- Internal libs, keep this exact order of import -->
+			<script type="text/javascript" src="/resources/static/lib/common_fn.js"></script>
+			<!-- Shared popup stuff, keep this exact order of import -->
+			<script type="text/javascript" src="/resources/static/template/template_lib.js"></script>
+			<script type="text/javascript" src="/resources/static/template/template.js"></script>
+			<script type="text/javascript" src="/resources/static/template/jsonld_handler.js"></script>
+			<!-- Content Script, keep this exact order of import -->
+			<script type="text/javascript" src="/resources/static/stage_builder/item_stage_builder.js"></script>
+			<script type="text/javascript" src="/resources/static/stage_builder/domain_stage_builder.js"></script>
+			<script type="text/javascript" src="/resources/static/stage_builder/api_lib.js"></script>
+			<!-- App, keep this exact order of import -->
+			<script type="text/javascript" src="/resources/static/vue_component/explanation_components.js"></script>
+			<script type="text/javascript" src="/resources/static/app.js"></script>
+		</footer>
+	</body>
+</html>

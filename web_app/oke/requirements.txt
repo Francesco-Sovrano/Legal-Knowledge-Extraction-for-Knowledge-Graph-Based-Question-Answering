@@ -1,0 +1,29 @@
+bottle
+
+tensorflow==2.1.0 # machine learning
+tensorflow_hub==0.8.0 # pre-trained models
+tensorflow_text==2.1.1 # question answering
+#torch==1.4.0 # machine learning
+torchvision==0.5.0
+keras==2.2.4
+spacy==2.3.2 # NLP
+gensim==3.8.3 # TFIDF
+nltk==3.5 # stemming, wordnet, etc..
+concepts==0.9.1 # formal concept analysis
+pywsd==1.2.4 # word sense disambiguation
+wikipedia==1.4.0 # definition extraction
+transformers==3.0.2 # text summarization and other NLP tasks
+
+more_itertools==8.2.0
+sortedcontainers==2.1.0
+python-Levenshtein # levenshtein string distance
+bs4 # xml to txt
+scikit-learn
+scipy==1.4.1
+wordcloud==1.7.0 # graphics
+tika # pdf to txt
+matplotlib # graphics
+pydotplus==2.0.2 # graphs
+networkx # graphs
+pandas
+lxml
